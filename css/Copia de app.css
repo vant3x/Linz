@@ -1,0 +1,112 @@
+*{
+
+}
+
+body{
+  
+}
+#header-container{
+    /*background: #032347;*/
+
+background:;
+    color:#fff;
+    font-weight: normal;
+}
+#header-container  .login{
+    color:#F73859;
+    font-weight: bold;
+}
+#header-container h1{
+    font-family: 'Permanent Marker', cursive;
+    color:#F73859
+
+}
+#header-container a{
+    font-weight: bold;
+}
+.dropdown-item{
+        background: #032347;
+        color:#fff;
+}
+.dropdown-menu{
+        background: #032347;
+}
+#header-container .container{
+    
+}
+.row{
+}
+.columna{
+   
+}
+
+.col-xs-3{
+}
+#menu-container{
+    background-color:#384259
+;
+    /*background-color:#f7f730;*/
+}
+.navbar li{
+    list-style: none;
+
+}
+.nav-link{
+  
+}
+.btn.btn-search{
+    /*background-color: #032347;*/
+    background-color: #F73859;
+    color:#fff;
+    transition:all ease 0.3s;
+    
+}
+.btn.btn-search:hover{
+    /*background-color: #0C336D;*/
+    background-color: #F73869;*/
+    color:#09f;
+}
+.color-azul1{
+    color:#032347;
+}
+.form-control{
+    width: 50px;
+
+}
+input.form-control:focus{
+    /*border-color:#032347;*/
+    border-color:#F73859;
+}
+input{
+    width: 50px;
+}
+.barrita-menu{
+    /*color: #f7f730;*/
+   /*background: #f7f730;*/
+
+/*   
+   background: #f7f730;
+   color:#032347;*/
+   color:#F73859;
+}
+.login{
+    font-weight: normal;
+   color: #F73859
+}
+.login-barrita{
+    color:#3F3F3F;
+    font-weight: normal;
+}
+#search-bar{
+    padding: 1em 3em;
+}
+.color-rojo1 a{
+    color:#F73859;
+}
+/* fonts 
+font-family: 'Permanent Marker', cursive;
+font-family: 'Fugaz One', cursive;
+font-family: 'Merienda One', cursive;
+font-family: 'Lato', sans-serif;
+
+*/
